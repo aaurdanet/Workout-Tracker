@@ -11,8 +11,8 @@ Setup
     WEIGHT: Your weight in kilograms.
     HEIGHT: Your height in centimeters.
     AGE: Your age.
-    nutritionix_endpoint: Endpoint for the nutritionix API.
-    sheet_endpoint: Endpoint for the spreadsheet API.
+    nutritionix_endpoint: Endpoint for the Nutritionix API https://www.nutritionix.com/business/api
+    sheet_endpoint: Endpoint for the Sheety API https://sheety.co/
 
 Dependencies:
 Make sure you have the necessary dependencies installed. You can install them via pip:
