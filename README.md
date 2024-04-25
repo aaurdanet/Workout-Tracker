@@ -3,16 +3,16 @@
 This program is designed to help you track your workouts and upload the data to a spreadsheet for easy management and analysis.
 Setup
 
-Environment Variables:
-Ensure you have the following environment variables set:
-APP_ID: Your application ID for workout API.
-WORKOUT_API_KEY: Your API key for workout API.
-SHEET_TOKEN: Authorization token for accessing the spreadsheet API.
-WEIGHT: Your weight in kilograms.
-HEIGHT: Your height in centimeters.
-AGE: Your age.
-nutritionix_endpoint: Endpoint for the nutritionix API.
-sheet_endpoint: Endpoint for the spreadsheet API.
+    Environment Variables:
+    Ensure you have the following environment variables set:
+    APP_ID: Your application ID for workout API.
+    WORKOUT_API_KEY: Your API key for workout API.
+    SHEET_TOKEN: Authorization token for accessing the spreadsheet API.
+    WEIGHT: Your weight in kilograms.
+    HEIGHT: Your height in centimeters.
+    AGE: Your age.
+    nutritionix_endpoint: Endpoint for the nutritionix API.
+    sheet_endpoint: Endpoint for the spreadsheet API.
 
 Dependencies:
 Make sure you have the necessary dependencies installed. You can install them via pip:
